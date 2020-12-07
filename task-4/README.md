@@ -56,12 +56,10 @@ void main()
  >1. stop
 #
 ## _**ABOUT MYSELF**_
->### **THE NAME'S ABHINANDHAN**
-| MY HOBBIES |
-|------------|
-|listen to english pop|
-|code|
-|learn new things|
+| ADVANTAGES | | DISADVANTAGES |
+|------------| |---------------|
+| CHECK THE LIST IS SORTED OR NOT | | TIME CONSUMING |
+| EASY TO UNDERSTAND|
 |
 #
 >### _**TASK STATUS GIVEN FROM COGNIZANCE 2020 BASED ON GIT AND GITHUB**_
@@ -71,9 +69,9 @@ void main()
 >* [X]  task 4(on process/gonna complete)
 
 #
-### _**A HYPERLINK TO GOOGLE SEARCH ENGINE**_
->[_**GOOGLE**_](https://www.google.com/ 
-"google search")
+### _**A HYPERLINK TO MY GITHUB PROFILE**_
+>[_**GITHUB PROFILE**_](https://github.com/STRIZERORTIX 
+"github account STRIZERORTIX")
 #
  ### _**DISPLAYIN AN EX FOR BUBBLE SORT**_
  
