@@ -75,7 +75,7 @@ void main()
 >[_**GOOGLE**_](https://www.google.com/ 
 "google search")
 #
- ### _**DISPLAYIN A BASIC MARKDOWN LANG IMAGE**_
+ ### _**DISPLAYIN AN EX FOR BUBBLE SORT**_
  
  ![BUBBLE SORT EXAMPLE](https://www.productplan.com/uploads/bubble-sort-1024x683-2.png)
  
