@@ -68,7 +68,7 @@ void main()
 >* [x] task 1
 >* [x] task 2
 >* [x] task 3
->* [ ]  task 4(on process/gonna complete)
+>* [X]  task 4(on process/gonna complete)
 
 #
 ### _**A HYPERLINK TO GOOGLE SEARCH ENGINE**_
