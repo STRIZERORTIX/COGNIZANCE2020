@@ -55,10 +55,10 @@ void main()
  >1. display the end sorted lisr
  >1. stop
 #
-## _**ABOUT MYSELF**_
-| ADVANTAGES | | DISADVANTAGES |
-|------------| |---------------|
-| CHECK THE LIST IS SORTED OR NOT | | TIME CONSUMING |
+## _**ADVANTAGES AND DISADVANTAGES OF BUBBLE SORT**_
+| ADVANTAGES | DISADVANTAGES |
+|------------| ---------------|
+| CHECK THE LIST IS SORTED OR NOT | TIME CONSUMING |
 | EASY TO UNDERSTAND|
 |
 #
