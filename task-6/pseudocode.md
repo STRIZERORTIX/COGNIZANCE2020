@@ -32,7 +32,7 @@
  >> ![pow func](pow.png)  
    
    >> ### **_THE BELOW PICTURE IS THE FLOWCHART FOR FINDING WHETHER THE  GIVEN NUMBER IS AN AMSTRONG(A.K.A NARCISSITIC) NUMBER OR NOT_**  
-   >> ![main](main.png)  
+   >> ![main](main1.png)  
    ---
    ---
      
