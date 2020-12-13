@@ -1,6 +1,10 @@
 # **_PSEUDOCODE AND FLOWCHART(VIA FLOWGARITHM) TO FIND IF A GIVEN NUMBER IS AMSTRONG NUMBER OR NOT_**
 ---
-## _**PSEUDOCODE**_
+# **_BASIC KNOWLEDGE OF AMSTRONG NUMBERS_**
+> ## **An Armstrong number is a number whoose sum of its digits raised to the number of the digits is equal to the number itself.**
+> ![example](ex.png)
+---
+# _**PSEUDOCODE**_
 
 > **READ n**  
 > **sum=o**  
@@ -28,8 +32,7 @@
  >> ![pow func](pow.png)  
    
    >> ### **_THE BELOW PICTURES IS THE FLOWCHART FOR FINDING THE IF A GIVEN NUMBER IS AN AMSTRONG NUMBER OR NOT_**  
-   >> ![part1](part1.png)  
-   >> ![part2](2nd.png)
+   >> ![main](main.png)  
    ---
    ---
      
