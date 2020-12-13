@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="abhiv"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-13 11:48:05 AM"/>
+        <attribute name="created" value="YWJoaXY7REVTS1RPUC1DVFRQVEdNOzIwMjAtMTEtMTg7MDM6MzA6MTQgUE07MjkyMg=="/>
+        <attribute name="edited" value="YWJoaXY7REVTS1RPUC1DVFRQVEdNOzIwMjAtMTEtMTg7MDg6MTc6NTYgUE07MTA7MzA5NA=="/>
+        <attribute name="edited" value="YWJoaXY7REVTS1RPUC00S0QxUzQ3OzIwMjAtMTItMTM7MTE6NDg6MDUgQU07MjsyOTA3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, temp, rem, sum, digit" type="Integer" array="False" size=""/>
+            <assign variable="digit" expression="0"/>
+            <assign variable="sum" expression="0"/>
+            <output expression="&quot;ENTER A NUMBER TO CHECK IF IT'S AN AMSTRONG NUMBER OR NOT:&quot;" newline="True"/>
+            <input variable="n"/>
+            <assign variable="temp" expression="n"/>
+            <while expression="n!=0">
+                <assign variable="digit" expression="digit+1"/>
+                <assign variable="n" expression="n/10"/>
+            </while>
+            <assign variable="n" expression="temp"/>
+            <while expression="n!=0">
+                <assign variable="rem" expression="n%10"/>
+                <assign variable="sum" expression="sum+pow(rem,digit)"/>
+                <assign variable="n" expression="n/10"/>
+            </while>
+            <if expression="sum==temp">
+                <then>
+                    <output expression="&quot;THE NUMBER IS A  AMSTRONG NUMBER&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;THE NUMBER ISN'T A  AMSTRONG NUMBER&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+    <function name="pow" type="Integer" variable="power">
+        <parameters>
+            <parameter name="a" type="Integer" array="False"/>
+            <parameter name="b" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="power, increment, i, j" type="Integer" array="False" size=""/>
+            <assign variable="power" expression="a"/>
+            <assign variable="increment" expression="a"/>
+            <for variable="i" start="1" end="b-1" direction="inc" step="1">
+                <for variable="j" start="1" end="a-1" direction="inc" step="1">
+                    <assign variable="power" expression="power+increment"/>
+                </for>
+                <assign variable="increment" expression="power"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
