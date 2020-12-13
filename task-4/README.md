@@ -55,27 +55,25 @@ void main()
  >1. display the end sorted lisr
  >1. stop
 #
-## _**ABOUT MYSELF**_
->### **THE NAME'S ABHINANDHAN**
-| MY HOBBIES |
-|------------|
-|listen to english pop|
-|code|
-|learn new things|
+## _**ADVANTAGES AND DISADVANTAGES OF BUBBLE SORT**_
+| ADVANTAGES | DISADVANTAGES |
+|------------| ---------------|
+| CHECK THE LIST IS SORTED OR NOT | TIME CONSUMING |
+| EASY TO UNDERSTAND|
 |
 #
 >### _**TASK STATUS GIVEN FROM COGNIZANCE 2020 BASED ON GIT AND GITHUB**_
 >* [x] task 1
 >* [x] task 2
 >* [x] task 3
->* [ ]  task 4(on process/gonna complete)
+>* [X]  task 4(on process/gonna complete)
 
 #
-### _**A HYPERLINK TO GOOGLE SEARCH ENGINE**_
->[_**GOOGLE**_](https://www.google.com/ 
-"google search")
+### _**A HYPERLINK TO MY GITHUB PROFILE**_
+>[_**GITHUB PROFILE**_](https://github.com/STRIZERORTIX 
+"github account STRIZERORTIX")
 #
- ### _**DISPLAYIN A BASIC MARKDOWN LANG IMAGE**_
+ ### _**DISPLAYIN AN EX FOR BUBBLE SORT**_
  
- ![THE MARKDOWN IMG](https://markdown-here.com/img/icon256.png)
+ ![BUBBLE SORT EXAMPLE](https://www.productplan.com/uploads/bubble-sort-1024x683-2.png)
  
